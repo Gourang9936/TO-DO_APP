@@ -1,0 +1,51 @@
+# To-Do List App
+
+## Project Title
+**To-Do List App**
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript 
+
+## Project Difficulty Level
+**Intermediate**
+
+## Objective
+The goal of this project is to build a responsive and interactive web-based to-do list application. Users can add, edit, delete, and mark tasks as completed. The application uses browser local storage to persist tasks even after the page is refreshed.
+
+## Features
+
+### 🖥️ User Interface
+- Simple and user-friendly design built with HTML and CSS
+- Input field to add new tasks
+- List view with:
+  - Checkboxes to mark tasks as complete/incomplete
+  - Edit and Delete buttons for each task
+- Responsive layout for desktop and mobile using media queries
+
+### ⚙️ Functionality
+- Add new tasks via an input field and "Add" button
+- Edit task descriptions
+- Delete tasks from the list
+- Mark tasks as completed or incomplete using checkboxes
+- Tasks are saved in **Local Storage** to retain data between sessions
+- Validation to prevent empty task entries
+- Error handling with user-friendly messages
+
+## How to Run the App
+
+1. **Download or Clone the Repository:**
+   - Extract the ZIP file if downloaded.
+
+2. **Open in Browser:**
+   - Open `index.html` in any modern browser.
+
+3. **Using the App:**
+   - Enter a task in the input field and click "Add"
+   - Use the checkboxes to mark tasks as complete/incomplete
+   - Click "Edit" to modify task description
+   - Click "Delete" to remove a task
+
+
+
